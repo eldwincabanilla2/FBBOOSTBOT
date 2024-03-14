@@ -1,16 +1,16 @@
 {
    "CONFIG": {
       "BOT_INFO": {
-         "PREFIX": ".",
+         "PREFIX": "!",
          "ADMIN_ID": [
-         "100089164803882"
+         "null"
          ],
-         "EMAIL": "EMAIL/PHONE NUMBER/ID",
-         "PASSWORD": "PASSWORD"
+         "EMAIL": "61556075942286",
+         "PASSWORD": "09562955388"
       },
       "PAGE_ACCOUNTS": {
          "ACCOUNTS": [
-            "EMAIL|PASS"
+            "elxdev02|09464381785"
          ]
       }
    }
