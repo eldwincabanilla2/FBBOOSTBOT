@@ -274,7 +274,7 @@ class MessBot(Client):
             	self.sendmessage(author_id, thread_id, thread_type, reply)
             if msg.startswith(f"{prefix}list"):
                 reply = f"""[ 𝙁𝘽 𝘽𝙊𝙊𝙎𝙏𝙄𝙉𝙂 𝘽𝙊𝙏 ]
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: 𝙼𝙰𝙷𝙸𝚁𝙾 𝙲𝙷𝙰𝙽
+CREDITS : MAHIRO
 ╭─❍
 ➠ {prefix}fbfollow: Send follow to id.
 ╰───────────⟡
